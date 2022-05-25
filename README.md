@@ -1,12 +1,11 @@
-### Hi there 👋
+![a junior web-developer](https://i.gifer.com/QBr.gif)
+### Hi there 👋, I am Nozib
+#### a junior web-developer
 
 <!--
 **nozibRock/nozibRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am trying to explore myself
+
+Skills: HTML/CSS/JAVASCRIPT/REACT/MONGODB/TAILWIND
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on a project ...
+- 🌱 I’m currently learning a project ...
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nozibRock)
+
+
+
+
+![Profile views](https://gpvc.arturio.dev/nozibRock)  
