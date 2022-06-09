@@ -35,8 +35,4 @@ Here are some ideas to get you started:
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nozibRock/nozibRock/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
-<!-- _generated with [nozibRock/snk](https://github.com/nozibRock/snk)_ -->
-
-
-![snake gif](https://github.com/SparrowHawkEye/SparrowHawkEye/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![snake gif](https://github.com/SparrowHawkEye/SparrowHawkEye/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+_generated with [Platane/snk](https://github.com/Platane/snk)_
